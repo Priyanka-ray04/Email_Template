@@ -4,11 +4,7 @@ A beginner-friendly responsive email template project built using HTML and CSS. 
 
 ## Live Demo
 
-🔗 Netlify: YOUR_NETLIFY_LINK
-
-## GitHub Repository
-
-🔗 GitHub: YOUR_GITHUB_LINK
+🔗 Netlify: https://responsive-email-design.netlify.app/
 
 ## Features
 
