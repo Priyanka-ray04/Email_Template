@@ -29,12 +29,6 @@ While building this project, I learned:
 - Spacing and typography for email templates
 - Email client compatibility concepts
 
-## Project Preview
-
-Add a screenshot of your project here.
-
-<img src="screenshot.png" width="100%">
-
 ## Author
 
 **Priyanka Ray**
